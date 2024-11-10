@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
 LOGGER_ID = int(getenv("LOGGER_ID", -1001964294961))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6603948327))
+OWNER_ID = int(getenv("OWNER_ID", 7613056238))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Iamvillain77/NexMusic",
+    "https://github.com/BADNAM07123/Vampireking",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MusxcZone")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MusxcZone")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VAMPIRE_UPDATEE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FCC_OFICIAL_GROUP")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -77,7 +77,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://telegra.ph/file/8fb11f38033d3195c9c8c.jpg",
+START_IMG_URL = ["https://files.catbox.moe/d31yj9.jpg",
                  "https://telegra.ph/file/106167c80a3fc3ab9f1e8.jpg",
                  "https://telegra.ph/file/89070543c0f7f2e51118d.jpg",
                  "https://telegra.ph/file/3a0afc7a07f35747684eb.jpg",
